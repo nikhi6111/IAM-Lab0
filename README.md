@@ -5,7 +5,7 @@ This repo is where I practise before doing the real labs.
 -Microsoft Entra ID
 -How to publish a project on GitHub
 
-## A thing I want to remember
+## A Thing I want to remember
 
 **Bold text** is done with two asterisks.
 
